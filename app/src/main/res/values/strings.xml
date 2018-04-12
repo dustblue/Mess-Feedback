@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mess</string>
+    <string name="quality_of_food_served">Quality of Food served</string>
+    <string name="quantity_of_food_served">Quantity of Food served</string>
+    <string name="punctuality">Punctuality</string>
+    <string name="staff_behaviour">Staff Behaviour</string>
+    <string name="remarks_and_suggestions">Remarks and Suggestions:</string>
+    <string name="hygiene_and_cleanliness">Hygiene and Cleanliness</string>
+    <string name="submit">Submit</string>
+    <string name="label_main_activity">Feedback</string>
+    <string name="logout">Logout</string>
+    <string name="reset_ratings">Reset Ratings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="student_login">Student Login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="enter_roll_number">Enter Roll Number</string>
+    <string name="enter_webmail_password">Enter Webmail Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_field_required">Required Field</string>
+    <string name="error_invalid_roll_no">Invalid Roll Number</string>
+    <string name="reviews_n">Reviews</string>
+</resources>
