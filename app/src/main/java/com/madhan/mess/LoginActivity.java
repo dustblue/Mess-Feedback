@@ -70,6 +70,7 @@ public class LoginActivity extends AppCompatActivity {
 
         mDB = FirebaseFirestore.getInstance();
         mAuth = FirebaseAuth.getInstance();
+        mAuth.signOut();
         mAuthListener = new FirebaseAuth.AuthStateListener() {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
